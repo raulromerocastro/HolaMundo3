@@ -1,4 +1,4 @@
 <?php
 echo "Hola Mundo";
-echo "desde Openshift";
+echo "desde Openshift 3";
 ?>
